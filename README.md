@@ -12,7 +12,7 @@ Jenkins plugin for 1&amp;1 Cloud Server
 
 ## Description
 
-This plugin allows Jenkins to start slaves on [1&1 Cloud Server API](https://cloudpanel-api.1and1.com/documentation/index_en.html) on demand, and delete them as they get unused.
+This plugin allows Jenkins to start slaves on [1&1 Cloud Server API](https://cloudpanel-api.1and1.com/documentation/index_en.html) on demand, and delete them as they get unused. For more information on the Jenkins plugin for 1&amp;1 Cloud Server see the [1&1 Community Portal](https://www.1and1.com/cloud-community/).
 
 ## Getting Started
 
